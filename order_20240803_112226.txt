@@ -1,0 +1,7 @@
+***Order Invoice***
+Employee: Suyog Dhakal
+Furniture ID: 6
+Product: Desk chair
+Quantity: 20
+Total Amount: $2000.00
+Date and Time: 2024-08-03 11:22:26.216151
